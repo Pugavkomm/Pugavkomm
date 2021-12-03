@@ -1,8 +1,7 @@
 ### Hello, I'm Mechislav [personal site](https://pugavkomm.github.io/#/)
 
 ![image](https://github.com/Pugavkomm/Pugavkomm-github-stats/blob/master/generated/languages.svg) 
- 
-![image](https://github.com/Pugavkomm/Pugavkomm-github-stats/blob/master/generated/overview.svg)
+
 
 ---
 ### Connect with me:
