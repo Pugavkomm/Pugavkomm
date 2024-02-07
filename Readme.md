@@ -15,8 +15,7 @@ _Other methods_
 
 
 
-[website]: https://pugavkomm.github.io/#/
+[website]: https://mechislavp.me
 [slavapugavko2@gmail.com]: slavapugavko2@gmail.com
-[course]: http://vsCodeHero.com 
 [telegram]: https://t.me/Mechislav
 [resgate]: https://www.researchgate.net/profile/Mechislav-Pugavko
