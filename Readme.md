@@ -11,7 +11,6 @@ _web-site:_ https://mechislavp.me
 
 _Other methods_
 
-[<img align="left" alt="pugavkomm.github.io/#/" width="22px" src="icons/site.png" />][website]
 [<img align="left" alt="gmail.com" width="22px" src="icons/Telegram.png" />][telegram]
 [<img align="left" alt="gmail.com" width="22px" src="icons/rg.png" />][resgate]
 
