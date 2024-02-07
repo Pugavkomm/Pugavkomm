@@ -7,7 +7,7 @@
 ### Connect with me:
 _e-mail:_ [slavapugavko2@gmail.com]
 
-_web-site:_ [https://mechislavp.me]
+_web-site:_ https://mechislavp.me
 
 _Other methods_
 
