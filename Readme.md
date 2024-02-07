@@ -6,6 +6,7 @@
 ---
 ### Connect with me:
 _e-mail:_ [slavapugavko2@gmail.com]
+_web-site:_ [mechislavp.me]
 
 _Other methods_
 
@@ -15,7 +16,7 @@ _Other methods_
 
 
 
-[website]: https://mechislavp.me
+
 [slavapugavko2@gmail.com]: slavapugavko2@gmail.com
 [telegram]: https://t.me/Mechislav
 [resgate]: https://www.researchgate.net/profile/Mechislav-Pugavko
