@@ -1,4 +1,4 @@
-### Hello, I'm Mechislav [personal site](https://pugavkomm.github.io/#/)
+### Hello, I'm Mechislav [personal site](https://mechislavp.me)
 
 ![image](https://github.com/Pugavkomm/Pugavkomm-github-stats/blob/master/generated/languages.svg) 
 
